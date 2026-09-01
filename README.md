@@ -48,15 +48,11 @@ tooling that turns messy feedback into structured data.
 
 ### 📊 GitHub
 
-<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ondrhn&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api?username=ondrhn&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ondrhn&theme=github-dark-blue&hide_border=true&background=00000000">
+  <img src="https://streak-stats.demolab.com?user=ondrhn&hide_border=true&background=00000000" alt="GitHub streak" height="165"/>
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondrhn&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondrhn&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" height="165"/>
-</picture>
-</p>
+
+<a href="https://github.com/ondrhn"><img src="https://ghchart.rshah.org/2dd4bf/ondrhn" alt="Contribution graph" width="100%"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
