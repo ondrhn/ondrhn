@@ -6,12 +6,21 @@ I build **autonomous systems that are allowed to fail safely** — trading agent
 hard-coded risk gates, portfolio automation that writes its own daily reports, and
 tooling that turns messy feedback into structured data.
 
-- 🔭 Currently: an autonomous crypto perp-futures trading agent, and a Claude-managed
-  portfolio pipeline for Turkish markets
-- 🧪 I don't ship a strategy I haven't measured: preregistered acceptance gates,
-  locked columns, limited retry budgets
-- 🛡️ House rules I code by: **hard limits live in code, not config** · **LLMs design,
-  deterministic code executes** · **kill switches run out-of-band**
+```yaml
+name: "Önderhan İşlekoğlu"
+handle: ondrhn
+location: "Türkiye"
+current_focus:
+  - "Autonomous crypto perp-futures trading agent (freqtrade + FreqAI)"
+  - "Claude-managed portfolio automation for Turkish markets (BIST + gold)"
+house_rules:
+  - "Hard limits live in code, not config"
+  - "LLMs design, deterministic code executes"
+  - "Kill switches run out-of-band"
+  - "Measure before believing: preregistered gates, locked columns, limited retries"
+currently_learning: ["edge hunting with LightGBM", "market microstructure"]
+2026_goal: "Ship a strategy that survives its own preregistered acceptance gate"
+```
 
 ---
 
@@ -54,5 +63,10 @@ tooling that turns messy feedback into structured data.
 </picture>
 
 <a href="https://github.com/ondrhn"><img src="https://ghchart.rshah.org/2dd4bf/ondrhn" alt="Contribution graph" width="100%"/></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake.svg" alt="Snake eating the contribution graph" width="100%"/>
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
