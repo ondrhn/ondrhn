@@ -1,26 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2dd4bf&height=180&section=header&text=%C3%96nderhan%20%C4%B0%C5%9Fleko%C4%9Flu&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=autonomous%20systems%20%C2%B7%20risk-first%20automation%20%C2%B7%20developer%20tools&descSize=16&descAlignY=55" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:41b883&height=180&section=header&text=%C3%96nderhan%20%C4%B0%C5%9Fleko%C4%9Flu&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=front-end%20engineer%20%C2%B7%20Vue%20%26%20TypeScript%20%C2%B7%20open%20source%20contributor&descSize=16&descAlignY=55" width="100%" alt="header"/>
 
-### Merhaba / Hi 👋
+### Hi, I'm Önderhan 👋
 
-I build **autonomous systems that are allowed to fail safely** — trading agents with
-hard-coded risk gates, portfolio automation that writes its own daily reports, and
-tooling that turns messy feedback into structured data.
+Front-end engineer from Istanbul. Most of my work is **TypeScript, Vue 3 and the tooling around it**,
+with Node.js and Python on the backend. I like small, well-tested changes and code that fails loudly.
 
 ```yaml
 name: "Önderhan İşlekoğlu"
 handle: ondrhn
-location: "Türkiye"
-current_focus:
-  - "Autonomous crypto perp-futures trading agent (freqtrade + FreqAI)"
-  - "Claude-managed portfolio automation for Turkish markets (BIST + gold)"
+location: "Istanbul, Türkiye"
+focus:
+  - "Vue 3 · TypeScript · Vite"
+  - "Node.js services and developer tooling"
+  - "Python automation with hard-coded safety limits"
+open_source: "Vue ecosystem first — core, devtools, router, pinia"
 house_rules:
   - "Hard limits live in code, not config"
-  - "LLMs design, deterministic code executes"
-  - "Kill switches run out-of-band"
-  - "Measure before believing: preregistered gates, locked columns, limited retries"
-currently_learning: ["edge hunting with LightGBM", "market microstructure"]
-2026_goal: "Ship a strategy that survives its own preregistered acceptance gate"
+  - "Reproduce before fixing, test before pushing"
+  - "One change per pull request"
 ```
+
+---
+
+### 🟢 Open source
+
+Recent pull requests, newest first:
+
+| Repository | Change |
+|---|---|
+| [vuejs/devtools](https://github.com/vuejs/devtools/pull/1137) | Bump Electron to v42 so the binary installs on Node.js 26 |
+| [vuejs/core](https://github.com/vuejs/core/pull/15499) | Handle circular references in `looseEqual` |
+| [typeorm/typeorm](https://github.com/typeorm/typeorm/pull/12866) | Handle rejected lazy relation loads in the query builder |
+| [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui/pull/2148) | Keep the day period after typing the hour in 12-hour `TimeField` |
 
 ---
 
@@ -28,9 +39,9 @@ currently_learning: ["edge hunting with LightGBM", "market microstructure"]
 
 | Project | What it is | Stack |
 |---|---|---|
-| **MessiahGate** | Autonomous crypto perpetual-futures trading agent on top of freqtrade — adds the layers freqtrade lacks: mandatory hard-coded risk gates, an out-of-band dead-man kill switch (separate process, separate API key), and Turkish-localized reporting. Strategy decisions come from a local FreqAI model; every experiment is preregistered with fixed acceptance criteria before it runs. | Python · freqtrade/FreqAI · LightGBM · systemd |
-| **claude-portfoy** | Claude-managed portfolio automation for BIST equities + gold: daily data pipeline, a rules engine that enforces risk limits before any trade is recorded, KAP/RSS news aggregation, headless AI analysis sessions on a schedule, and a self-rendered dashboard — 175+ tests. | Python · systemd timers · Claude Code |
 | **BuildLoop** | Build & playtest tracker for indie game developers — Discord-first invite flow, slash-command `/feedback` and `/bug` capture, signed time-limited download URLs, and an async integrity-check queue for uploads. | TypeScript · Node.js · Discord API · BullMQ/Redis · Drizzle |
+| **MessiahGate** | Crypto perpetual-futures trading agent on top of freqtrade — adds the layers freqtrade lacks: mandatory hard-coded risk gates, an out-of-band dead-man kill switch (separate process, separate API key), and localized reporting. Every experiment is preregistered with fixed acceptance criteria before it runs. | Python · freqtrade/FreqAI · LightGBM · systemd |
+| **claude-portfoy** | Portfolio automation for BIST equities + gold: daily data pipeline, a rules engine that enforces risk limits before any trade is recorded, KAP/RSS news aggregation, scheduled analysis jobs, and a self-rendered dashboard — 175+ tests. | Python · systemd timers · SQLite |
 
 > 🔓 These repos are private while they harden; they're being opened up piece by piece.
 
@@ -39,18 +50,18 @@ currently_learning: ["edge hunting with LightGBM", "market microstructure"]
 ### 🧰 Tools I reach for
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# / .NET"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Linux%20%2F%20systemd-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
 </p>
 
 ---
@@ -62,11 +73,6 @@ currently_learning: ["edge hunting with LightGBM", "market microstructure"]
   <img src="https://streak-stats.demolab.com?user=ondrhn&hide_border=true&background=00000000" alt="GitHub streak" height="165"/>
 </picture>
 
-<a href="https://github.com/ondrhn"><img src="https://ghchart.rshah.org/2dd4bf/ondrhn" alt="Contribution graph" width="100%"/></a>
+<a href="https://github.com/ondrhn"><img src="https://ghchart.rshah.org/41b883/ondrhn" alt="Contribution graph" width="100%"/></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake.svg" alt="Snake eating the contribution graph" width="100%"/>
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
