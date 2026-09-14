@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ondrhn/ondrhn/master/assets/header.svg" width="100%" alt="Önderhan İşlekoğlu — front-end engineer · Vue & TypeScript · open source contributor"/>
+<img src="https://raw.githubusercontent.com/ondrhn/ondrhn/master/assets/header.svg?v=2" width="100%" alt="Önderhan İşlekoğlu — front-end engineer · Vue & TypeScript · open source contributor"/>
 
 ### Hi, I'm Önderhan 👋
 
