@@ -44,6 +44,6 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#f8fafc;" stroke="#none" stroke-width="1" >Önderhan İşlekoğlu</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#f8fafc;">front-end engineer · Vue & TypeScript · open source contributor</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#f8fafc;">front-end engineer · Vue &amp; TypeScript · open source contributor</text>
       </svg>
     
