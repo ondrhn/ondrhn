@@ -1,9 +1,10 @@
-<img src="https://raw.githubusercontent.com/ondrhn/ondrhn/master/assets/header.svg?v=2" width="100%" alt="Önderhan İşlekoğlu — front-end engineer · Vue & TypeScript · open source contributor"/>
+<img src="https://raw.githubusercontent.com/ondrhn/ondrhn/master/assets/header.svg?v=3" width="100%" alt="Önderhan İşlekoğlu — full-stack developer, front-end at heart · Vue & TypeScript · open source contributor"/>
 
 ### Hi, I'm Önderhan 👋
 
-Front-end engineer from Istanbul. Most of my work is **TypeScript, Vue 3 and the tooling around it**,
-with Node.js and Python on the backend. I like small, well-tested changes and code that fails loudly.
+Full-stack developer from Istanbul, front-end at heart. Most of my work is **TypeScript, Vue 3 and the
+tooling around it**, with Node.js and Python on the backend. I like small, well-tested changes and code
+that fails loudly.
 
 ```yaml
 name: "Önderhan İşlekoğlu"
@@ -12,7 +13,7 @@ location: "Istanbul, Türkiye"
 focus:
   - "Vue 3 · TypeScript · Vite"
   - "Node.js services and developer tooling"
-  - "Python automation with hard-coded safety limits"
+  - "Python automation with guardrails enforced in code"
 open_source: "Vue ecosystem first — core, devtools, router, pinia"
 house_rules:
   - "Hard limits live in code, not config"
