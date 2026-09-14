@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Önderhan İşlekoğlu — front-end engineer · Vue & TypeScript · open source contributor"/>
+<img src="https://raw.githubusercontent.com/ondrhn/ondrhn/master/assets/header.svg" width="100%" alt="Önderhan İşlekoğlu — front-end engineer · Vue & TypeScript · open source contributor"/>
 
 ### Hi, I'm Önderhan 👋
 
@@ -80,4 +80,4 @@ Recent pull requests, newest first:
   <img src="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake.svg" alt="Snake eating the contribution graph" width="100%"/>
 </picture>
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/ondrhn/ondrhn/master/assets/footer.svg" width="100%" alt="footer"/>
