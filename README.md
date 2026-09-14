@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:41b883&height=180&section=header&text=%C3%96nderhan%20%C4%B0%C5%9Fleko%C4%9Flu&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=front-end%20engineer%20%C2%B7%20Vue%20%26%20TypeScript%20%C2%B7%20open%20source%20contributor&descSize=16&descAlignY=55" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Önderhan İşlekoğlu — front-end engineer · Vue & TypeScript · open source contributor"/>
 
 ### Hi, I'm Önderhan 👋
 
@@ -41,7 +41,7 @@ Recent pull requests, newest first:
 |---|---|---|
 | **BuildLoop** | Build & playtest tracker for indie game developers — Discord-first invite flow, slash-command `/feedback` and `/bug` capture, signed time-limited download URLs, and an async integrity-check queue for uploads. | TypeScript · Node.js · Discord API · BullMQ/Redis · Drizzle |
 | **MessiahGate** | Crypto perpetual-futures trading agent on top of freqtrade — adds the layers freqtrade lacks: mandatory hard-coded risk gates, an out-of-band dead-man kill switch (separate process, separate API key), and localized reporting. Every experiment is preregistered with fixed acceptance criteria before it runs. | Python · freqtrade/FreqAI · LightGBM · systemd |
-| **claude-portfoy** | Portfolio automation for BIST equities + gold: daily data pipeline, a rules engine that enforces risk limits before any trade is recorded, KAP/RSS news aggregation, scheduled analysis jobs, and a self-rendered dashboard — 175+ tests. | Python · systemd timers · SQLite |
+| **messiah-portfoy** | Portfolio automation for BIST equities + gold: daily data pipeline, a rules engine that enforces risk limits before any trade is recorded, KAP/RSS news aggregation, scheduled analysis jobs, and a self-rendered dashboard — 175+ tests. | Python · systemd timers · SQLite |
 
 > 🔓 These repos are private while they harden; they're being opened up piece by piece.
 
@@ -75,4 +75,9 @@ Recent pull requests, newest first:
 
 <a href="https://github.com/ondrhn"><img src="https://ghchart.rshah.org/41b883/ondrhn" alt="Contribution graph" width="100%"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ondrhn/ondrhn/output/github-snake.svg" alt="Snake eating the contribution graph" width="100%"/>
+</picture>
+
+<img src="assets/footer.svg" width="100%" alt="footer"/>
