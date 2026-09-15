@@ -25,16 +25,15 @@ house_rules:
 
 ### 🟢 Open source
 
-Recent pull requests, newest first:
+One row per project, latest change first:
 
-| Repository | Change |
-|---|---|
-| [vuejs/core](https://github.com/vuejs/core/pull/15523) | Keep optional props when a runtime prop uses a generic `PropType` |
-| [vuejs/router](https://github.com/vuejs/router/pull/2802) | Explain why a shared path prefix alone does not make a link active |
-| [vuejs/devtools](https://github.com/vuejs/devtools/pull/1137) | Bump Electron to v42 so the binary installs on Node.js 26 |
-| [vuejs/core](https://github.com/vuejs/core/pull/15499) | Handle circular references in `looseEqual` |
-| [typeorm/typeorm](https://github.com/typeorm/typeorm/pull/12866) | Handle rejected lazy relation loads in the query builder |
-| [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui/pull/2148) | Keep the day period after typing the hour in 12-hour `TimeField` |
+| Repository | Latest change | Pull requests |
+|---|---|---|
+| [vuejs/core](https://github.com/vuejs/core) | Keep optional props when a runtime prop uses a generic `PropType` | [#15523](https://github.com/vuejs/core/pull/15523), [#15499](https://github.com/vuejs/core/pull/15499) |
+| [vuejs/router](https://github.com/vuejs/router) | Explain why a shared path prefix alone does not make a link active | [#2802](https://github.com/vuejs/router/pull/2802) |
+| [vuejs/devtools](https://github.com/vuejs/devtools) | Bump Electron to v42 so the binary installs on Node.js 26 | [#1137](https://github.com/vuejs/devtools/pull/1137) |
+| [typeorm/typeorm](https://github.com/typeorm/typeorm) | Handle rejected lazy relation loads in the query builder | [#12866](https://github.com/typeorm/typeorm/pull/12866) |
+| [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) | Keep the day period after typing the hour in 12-hour `TimeField` | [#2148](https://github.com/huntabyte/bits-ui/pull/2148) |
 
 ---
 
