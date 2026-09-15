@@ -29,6 +29,7 @@ Recent pull requests, newest first:
 
 | Repository | Change |
 |---|---|
+| [vuejs/core](https://github.com/vuejs/core/pull/15523) | Keep optional props when a runtime prop uses a generic `PropType` |
 | [vuejs/router](https://github.com/vuejs/router/pull/2802) | Explain why a shared path prefix alone does not make a link active |
 | [vuejs/devtools](https://github.com/vuejs/devtools/pull/1137) | Bump Electron to v42 so the binary installs on Node.js 26 |
 | [vuejs/core](https://github.com/vuejs/core/pull/15499) | Handle circular references in `looseEqual` |
