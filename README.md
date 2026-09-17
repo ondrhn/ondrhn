@@ -29,7 +29,7 @@ One row per project, latest change first:
 
 | Repository | Latest change | Pull requests |
 |---|---|---|
-| [vuejs/core](https://github.com/vuejs/core) | Keep optional props when a runtime prop uses a generic `PropType` | [#15523](https://github.com/vuejs/core/pull/15523), [#15499](https://github.com/vuejs/core/pull/15499) |
+| [vuejs/core](https://github.com/vuejs/core) | Keep the placeholder of a pending async component during block patching | [#15554](https://github.com/vuejs/core/pull/15554), [#15523](https://github.com/vuejs/core/pull/15523), [#15499](https://github.com/vuejs/core/pull/15499) |
 | [vuejs/router](https://github.com/vuejs/router) | Explain why a shared path prefix alone does not make a link active | [#2802](https://github.com/vuejs/router/pull/2802) |
 | [vuejs/devtools](https://github.com/vuejs/devtools) | Bump Electron to v42 so the binary installs on Node.js 26 | [#1137](https://github.com/vuejs/devtools/pull/1137) |
 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | Handle rejected lazy relation loads in the query builder | [#12866](https://github.com/typeorm/typeorm/pull/12866) |
