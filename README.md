@@ -29,6 +29,7 @@ One row per project, latest change first:
 
 | Repository | Latest change | Pull requests |
 |---|---|---|
+| [vueuse/vueuse](https://github.com/vueuse/vueuse) | Roll back `useRouteQuery` / `useRouteParams` when a navigation guard cancels the change | [#5641](https://github.com/vueuse/vueuse/pull/5641) |
 | [vuejs/core](https://github.com/vuejs/core) | Keep the placeholder of a pending async component during block patching | [#15554](https://github.com/vuejs/core/pull/15554), [#15523](https://github.com/vuejs/core/pull/15523), [#15499](https://github.com/vuejs/core/pull/15499) |
 | [vuejs/router](https://github.com/vuejs/router) | Explain why a shared path prefix alone does not make a link active | [#2802](https://github.com/vuejs/router/pull/2802) |
 | [vuejs/devtools](https://github.com/vuejs/devtools) | Bump Electron to v42 so the binary installs on Node.js 26 | [#1137](https://github.com/vuejs/devtools/pull/1137) |
