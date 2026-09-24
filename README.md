@@ -42,11 +42,12 @@ One row per project, latest change first:
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**contrib-policy**](https://github.com/ondrhn/contrib-policy) | Reads a project's contribution rules before a pull request goes out and answers one question: may this change be sent here, and on what terms? Looks at CONTRIBUTING, AI policies, PR templates, foundation rules and the repository settings, then says GO, GO-DECLARE or STOP and quotes the exact sentence that decided it. Works as a skill for coding agents or as a plain command; no model call, just bash. Checked against 78 real repositories. | Bash · curl · jq · awk |
 | **BuildLoop** | Build & playtest tracker for indie game developers — Discord-first invite flow, slash-command `/feedback` and `/bug` capture, signed time-limited download URLs, and an async integrity-check queue for uploads. | TypeScript · Node.js · Discord API · BullMQ/Redis · Drizzle |
 | **MessiahGate** | Crypto perpetual-futures trading agent on top of freqtrade — adds the layers freqtrade lacks: mandatory hard-coded risk gates, an out-of-band dead-man kill switch (separate process, separate API key), and localized reporting. Every experiment is preregistered with fixed acceptance criteria before it runs. | Python · freqtrade/FreqAI · LightGBM · systemd |
 | **messiah-portfoy** | Portfolio automation for BIST equities + gold: daily data pipeline, a rules engine that enforces risk limits before any trade is recorded, KAP/RSS news aggregation, scheduled analysis jobs, and a self-rendered dashboard — 175+ tests. | Python · systemd timers · SQLite |
 
-> 🔓 These repos are private while they harden; they're being opened up piece by piece.
+> 🔓 contrib-policy is public. The other three are private while they harden; they're being opened up piece by piece.
 
 ---
 
