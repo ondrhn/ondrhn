@@ -25,12 +25,12 @@ house_rules:
 
 ### 🟢 Open source
 
-One row per project, latest change first:
+Bug fixes and small improvements to the libraries I use every day, Vue ecosystem first. One row per project, latest change on top — [all pull requests →](https://github.com/pulls?q=is%3Apr+author%3Aondrhn+-user%3Aondrhn+sort%3Acreated-desc)
 
-| Repository | Latest change | Pull requests |
+| Project | Latest change | Pull requests |
 |---|---|---|
+| [vuejs/core](https://github.com/vuejs/core) | Mount a resolved async component under `<Suspense>` with its own namespace, so SVG subtrees keep drawing | [#15640](https://github.com/vuejs/core/pull/15640) · [#15637](https://github.com/vuejs/core/pull/15637) · [#15554](https://github.com/vuejs/core/pull/15554) · <sub>[+2 more](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3Aondrhn+sort%3Acreated-desc)</sub> |
 | [vueuse/vueuse](https://github.com/vueuse/vueuse) | Roll back `useRouteQuery` / `useRouteParams` when a navigation guard cancels the change | [#5641](https://github.com/vueuse/vueuse/pull/5641) |
-| [vuejs/core](https://github.com/vuejs/core) | Keep the placeholder of a pending async component during block patching | [#15554](https://github.com/vuejs/core/pull/15554), [#15523](https://github.com/vuejs/core/pull/15523), [#15499](https://github.com/vuejs/core/pull/15499) |
 | [vuejs/router](https://github.com/vuejs/router) | Explain why a shared path prefix alone does not make a link active | [#2802](https://github.com/vuejs/router/pull/2802) |
 | [vuejs/devtools](https://github.com/vuejs/devtools) | Bump Electron to v42 so the binary installs on Node.js 26 | [#1137](https://github.com/vuejs/devtools/pull/1137) |
 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | Handle rejected lazy relation loads in the query builder | [#12866](https://github.com/typeorm/typeorm/pull/12866) |
