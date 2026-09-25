@@ -29,7 +29,8 @@ Bug fixes and small improvements to the libraries I use every day, Vue ecosystem
 
 | Project | Latest change | Pull requests |
 |---|---|---|
-| [vuejs/core](https://github.com/vuejs/core) | Mount a resolved async component under `<Suspense>` with its own namespace, so SVG subtrees keep drawing | [#15640](https://github.com/vuejs/core/pull/15640) · [#15637](https://github.com/vuejs/core/pull/15637) · [#15554](https://github.com/vuejs/core/pull/15554) · <sub>[+2 more](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3Aondrhn+sort%3Acreated-desc)</sub> |
+| [vuejs/pinia](https://github.com/vuejs/pinia) | Resolve the default Nuxt `storesDirs` against every layer, so stores inside layers are auto-imported again | [#3185](https://github.com/vuejs/pinia/pull/3185) |
+| [vuejs/core](https://github.com/vuejs/core) | Stop patching the native array iterator when iterating a reactive array, which was slowing down spread and `Array.from` page-wide | [#15645](https://github.com/vuejs/core/pull/15645) · [#15640](https://github.com/vuejs/core/pull/15640) · [#15637](https://github.com/vuejs/core/pull/15637) · <sub>[+3 more](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3Aondrhn+sort%3Acreated-desc)</sub> |
 | [vueuse/vueuse](https://github.com/vueuse/vueuse) | Roll back `useRouteQuery` / `useRouteParams` when a navigation guard cancels the change | [#5641](https://github.com/vueuse/vueuse/pull/5641) |
 | [vuejs/router](https://github.com/vuejs/router) | Explain why a shared path prefix alone does not make a link active | [#2802](https://github.com/vuejs/router/pull/2802) |
 | [vuejs/devtools](https://github.com/vuejs/devtools) | Bump Electron to v42 so the binary installs on Node.js 26 | [#1137](https://github.com/vuejs/devtools/pull/1137) |
