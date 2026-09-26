@@ -13,6 +13,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#15637](https://github.com/vuejs/core/pull/15637#issuecomment-5841076644) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#3185](https://github.com/vuejs/pinia/pull/3185) in [vuejs/pinia](https://github.com/vuejs/pinia)
+3. 💪 Opened PR [#15645](https://github.com/vuejs/core/pull/15645) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#15640](https://github.com/vuejs/core/pull/15640#issuecomment-5817617613) in [vuejs/core](https://github.com/vuejs/core)
+5. 💪 Opened PR [#15640](https://github.com/vuejs/core/pull/15640) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
 
 #### Reach me
