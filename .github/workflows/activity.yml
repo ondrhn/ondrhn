@@ -1,0 +1,21 @@
+# Son 5 herkese acik olayi README'deki activity bloguna yazar (edison1105 profilindeki ile ayni action).
+name: Recent activity
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.8.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
+          COMMIT_MSG: "Recent activity"
+          COMMIT_NAME: onder
+          COMMIT_EMAIL: onderhanislekoglu@outlook.com
