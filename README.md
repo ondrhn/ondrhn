@@ -39,11 +39,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3185](https://github.com/vuejs/pinia/pull/3185) in [vuejs/pinia](https://github.com/vuejs/pinia)
-2. 🗣 Commented on [#15637](https://github.com/vuejs/core/pull/15637#issuecomment-5841076644) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#3185](https://github.com/vuejs/pinia/pull/3185) in [vuejs/pinia](https://github.com/vuejs/pinia)
-4. 💪 Opened PR [#15645](https://github.com/vuejs/core/pull/15645) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#15640](https://github.com/vuejs/core/pull/15640#issuecomment-5817617613) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#15637](https://github.com/vuejs/core/pull/15637#issuecomment-5859212578) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#15676](https://github.com/vuejs/core/pull/15676) in [vuejs/core](https://github.com/vuejs/core)
+3. 💪 Opened PR [#15675](https://github.com/vuejs/core/pull/15675) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#15672](https://github.com/vuejs/core/pull/15672) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#3185](https://github.com/vuejs/pinia/pull/3185) in [vuejs/pinia](https://github.com/vuejs/pinia)
 <!--END_SECTION:activity-->
 
 </td>
