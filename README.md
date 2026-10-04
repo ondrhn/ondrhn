@@ -39,11 +39,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12866](https://github.com/typeorm/typeorm/pull/12866#issuecomment-5967687783) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-2. 💪 Opened PR [#15741](https://github.com/vuejs/core/pull/15741) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#15728](https://github.com/vuejs/core/pull/15728) in [vuejs/core](https://github.com/vuejs/core)
-4. 🎉 Merged PR [#15676](https://github.com/vuejs/core/pull/15676) in [vuejs/core](https://github.com/vuejs/core)
-5. 🎉 Merged PR [#15672](https://github.com/vuejs/core/pull/15672) in [vuejs/core](https://github.com/vuejs/core)
+1. 💪 Opened PR [#6243](https://github.com/vuejs/language-tools/pull/6243) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+2. 🗣 Commented on [#12866](https://github.com/typeorm/typeorm/pull/12866#issuecomment-5967687783) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
+3. 💪 Opened PR [#15741](https://github.com/vuejs/core/pull/15741) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#15728](https://github.com/vuejs/core/pull/15728) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#15676](https://github.com/vuejs/core/pull/15676) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
 
 </td>
