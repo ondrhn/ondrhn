@@ -39,11 +39,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#1137](https://github.com/vuejs/devtools/pull/1137#issuecomment-6054930993) in [vuejs/devtools](https://github.com/vuejs/devtools)
-3. 💪 Opened PR [#5491](https://github.com/vuejs/vitepress/pull/5491) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-4. 💪 Opened PR [#6248](https://github.com/vuejs/language-tools/pull/6248) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-5. 💪 Opened PR [#6243](https://github.com/vuejs/language-tools/pull/6243) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+1. 🚀 Published release [0.1.1](https://github.com/ondrhn/sharpprompt/releases/tag/v0.1.1) in [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt)
+2. 💪 Opened PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#1137](https://github.com/vuejs/devtools/pull/1137#issuecomment-6054930993) in [vuejs/devtools](https://github.com/vuejs/devtools)
+4. 💪 Opened PR [#5491](https://github.com/vuejs/vitepress/pull/5491) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+5. 💪 Opened PR [#6248](https://github.com/vuejs/language-tools/pull/6248) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 <!--END_SECTION:activity-->
 
 </td>
