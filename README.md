@@ -39,11 +39,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5491](https://github.com/vuejs/vitepress/pull/5491) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-2. 💪 Opened PR [#6248](https://github.com/vuejs/language-tools/pull/6248) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-3. 💪 Opened PR [#6243](https://github.com/vuejs/language-tools/pull/6243) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-4. 🗣 Commented on [#12866](https://github.com/typeorm/typeorm/pull/12866#issuecomment-5967687783) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-5. 💪 Opened PR [#15741](https://github.com/vuejs/core/pull/15741) in [vuejs/core](https://github.com/vuejs/core)
+1. 💪 Opened PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#1137](https://github.com/vuejs/devtools/pull/1137#issuecomment-6054930993) in [vuejs/devtools](https://github.com/vuejs/devtools)
+3. 💪 Opened PR [#5491](https://github.com/vuejs/vitepress/pull/5491) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+4. 💪 Opened PR [#6248](https://github.com/vuejs/language-tools/pull/6248) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+5. 💪 Opened PR [#6243](https://github.com/vuejs/language-tools/pull/6243) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 <!--END_SECTION:activity-->
 
 </td>
