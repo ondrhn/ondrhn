@@ -39,11 +39,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.2.0](https://github.com/ondrhn/sharpprompt/releases/tag/v0.2.0) in [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt)
-2. 🚀 Published release [0.1.1](https://github.com/ondrhn/sharpprompt/releases/tag/v0.1.1) in [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt)
-3. 💪 Opened PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#1137](https://github.com/vuejs/devtools/pull/1137#issuecomment-6054930993) in [vuejs/devtools](https://github.com/vuejs/devtools)
-5. 💪 Opened PR [#5491](https://github.com/vuejs/vitepress/pull/5491) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+1. 💪 Opened PR [#15847](https://github.com/vuejs/core/pull/15847) in [vuejs/core](https://github.com/vuejs/core)
+2. 🚀 Published release [0.2.0](https://github.com/ondrhn/sharpprompt/releases/tag/v0.2.0) in [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt)
+3. 🚀 Published release [0.1.1](https://github.com/ondrhn/sharpprompt/releases/tag/v0.1.1) in [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt)
+4. 💪 Opened PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#1137](https://github.com/vuejs/devtools/pull/1137#issuecomment-6054930993) in [vuejs/devtools](https://github.com/vuejs/devtools)
 <!--END_SECTION:activity-->
 
 </td>
