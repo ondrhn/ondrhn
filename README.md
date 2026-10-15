@@ -39,11 +39,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#15640](https://github.com/vuejs/core/pull/15640) in [vuejs/core](https://github.com/vuejs/core)
-3. 🎉 Merged PR [#15554](https://github.com/vuejs/core/pull/15554) in [vuejs/core](https://github.com/vuejs/core)
-4. 💪 Opened PR [#15847](https://github.com/vuejs/core/pull/15847) in [vuejs/core](https://github.com/vuejs/core)
-5. 🚀 Published release [0.2.0](https://github.com/ondrhn/sharpprompt/releases/tag/v0.2.0) in [ondrhn/sharpprompt](https://github.com/ondrhn/sharpprompt)
+1. 🎉 Merged PR [#2848](https://github.com/vuejs/router/pull/2848) in [vuejs/router](https://github.com/vuejs/router)
+2. 💪 Opened PR [#2848](https://github.com/vuejs/router/pull/2848) in [vuejs/router](https://github.com/vuejs/router)
+3. 🎉 Merged PR [#15818](https://github.com/vuejs/core/pull/15818) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#15640](https://github.com/vuejs/core/pull/15640) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#15554](https://github.com/vuejs/core/pull/15554) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
 
 </td>
