@@ -31,6 +31,8 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 
 #### Projects
 
+[sharpprompt](https://github.com/ondrhn/sharpprompt): a Claude Code mod that holds a rough prompt before it goes out (a vague "that thing above", no word on what you want back), rewrites it with the conversation in view and puts the rewrite in your box, where you edit it or press Enter. Clear prompts pass untouched and it never sends anything itself. On 30 cases where the prompt left out something only the user knew, passing checks went from 13 to 25.
+
 [contrib-policy](https://github.com/ondrhn/contrib-policy): reads a repository's contribution guidelines before a pull request goes out and reports whether the change can be sent there, and under which conditions.
 
 </td>
