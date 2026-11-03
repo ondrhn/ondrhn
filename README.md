@@ -41,11 +41,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16092](https://github.com/vuejs/core/pull/16092) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#16081](https://github.com/vuejs/core/pull/16081) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#16083](https://github.com/vuejs/core/pull/16083) in [vuejs/core](https://github.com/vuejs/core)
-4. 💪 Opened PR [#16081](https://github.com/vuejs/core/pull/16081) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#2987](https://github.com/vuejs/test-utils/pull/2987#issuecomment-6559233655) in [vuejs/test-utils](https://github.com/vuejs/test-utils)
+1. 🎉 Merged PR [#16001](https://github.com/vuejs/core/pull/16001) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#16092](https://github.com/vuejs/core/pull/16092) in [vuejs/core](https://github.com/vuejs/core)
+3. 🎉 Merged PR [#16081](https://github.com/vuejs/core/pull/16081) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#16083](https://github.com/vuejs/core/pull/16083) in [vuejs/core](https://github.com/vuejs/core)
+5. 💪 Opened PR [#16081](https://github.com/vuejs/core/pull/16081) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
 
 </td>
