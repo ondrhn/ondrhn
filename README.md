@@ -41,11 +41,11 @@ Contributor to [Vue core](https://github.com/vuejs/core/pulls?q=is%3Apr+author%3
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16423](https://github.com/vuejs/core/pull/16423) in [vuejs/core](https://github.com/vuejs/core)
-2. 💪 Opened PR [#6374](https://github.com/vuejs/language-tools/pull/6374) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-3. 💪 Opened PR [#16416](https://github.com/vuejs/core/pull/16416) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#2936](https://github.com/vuejs/router/pull/2936#issuecomment-7071298098) in [vuejs/router](https://github.com/vuejs/router)
-5. 💪 Opened PR [#2936](https://github.com/vuejs/router/pull/2936) in [vuejs/router](https://github.com/vuejs/router)
+1. 🎉 Merged PR [#2966](https://github.com/vuejs/router/pull/2966) in [vuejs/router](https://github.com/vuejs/router)
+2. 💪 Opened PR [#2966](https://github.com/vuejs/router/pull/2966) in [vuejs/router](https://github.com/vuejs/router)
+3. 💪 Opened PR [#16423](https://github.com/vuejs/core/pull/16423) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#6374](https://github.com/vuejs/language-tools/pull/6374) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+5. 💪 Opened PR [#16416](https://github.com/vuejs/core/pull/16416) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
 
 </td>
